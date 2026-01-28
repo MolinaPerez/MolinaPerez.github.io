@@ -1,14 +1,20 @@
 # Computer Science Student
 
+## Objective
+
+- Interested in a professional experience where I can participate in cybersecurity, technological initiatives, solve complex
+problems, work with experienced teams, and optimize processes using acquired knowledge and experience.
+
 ## Education
 
-### Bachelor of Science in Computer Science, University of Puerto Rico – Mayagüez 08/2022-Present
+Bachelor of Science in Computer Science, University of Puerto Rico - Mayagüez 08/2022-Present
 
 ## Work Eperience
 
 ### IT Tech / System Admin - PRSN Puerto Rico Seismic Network - Mayagüez 11/2025-Present
 
 - Maintaining and updating specialized machines
+- Remote connection troubleshooting and error correction
 - Instrucing operators on errors and likely solutions
 
 ## Proyects
@@ -21,7 +27,7 @@
 
 ## Student Assocciations
 
-### Secretary - Association of Computing Machinery (A.C.M)
+### Secretary - Association of Computing Machinery (A.C.M.C.S)
 
 - Coordinated and planned events to support organizational goals and member engagement
 - Recruited and connected with potential members to strengthen community involvement
