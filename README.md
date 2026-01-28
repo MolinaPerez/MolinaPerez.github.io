@@ -7,7 +7,7 @@ problems, work with experienced teams, and optimize processes using acquired kno
 
 ## Education
 
-Bachelor of Science in Computer Science, University of Puerto Rico - Mayagüez 08/2022-Present
+-- Bachelor of Science in Computer Science, University of Puerto Rico - Mayagüez 08/2022-Present
 
 ## Work Eperience
 
