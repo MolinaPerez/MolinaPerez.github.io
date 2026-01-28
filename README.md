@@ -1,10 +1,11 @@
 # Computer Science Student
 
 ## Education
-B.S University of Puerto Rico, Mayaguez 22-current
+Bachelor of Science in Computer Science, University of Puerto Rico – Mayagüez 08/2022-Present
 
 ## Work Eperience
-IT Tech - PRSN Puerto Rico Seismic Network, Mayaguez 25-cuurrent
+
+### IT Tech / System Admin - PRSN Puerto Rico Seismic Network, Mayaguez 25-cuurrent
 
 - Maintaining and updating specialized machines
 - Instrucing operators on errors and likely solutions
